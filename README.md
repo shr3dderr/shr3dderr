@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shr3dderr
+- 👋 Hi, I’m Stewart
 - 👀 I’m interested in coding, gaming, music
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
