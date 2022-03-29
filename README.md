@@ -12,8 +12,7 @@
     Tailwind CSS    Python
     ```
 ---
-##
-> ### Philippians 4:11-13 
+### Philippians 4:11-13 
 >11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 
 >12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed 
