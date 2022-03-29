@@ -4,7 +4,9 @@
 - 💬 Ask me anything, I won't know the answer anyway
 - 📫 Well, there's no reaching me ig
 - 📌 Based on India 🇮🇳
+
 ---
+## Languages
 - 🌱 I'm currently learning~
 
     ```sh
@@ -12,7 +14,8 @@
     Tailwind CSS    Python
     ```
 ---
-### Philippians 4:11-13 
+## Faith
+### **_Philippians 4:11-13_**
 >11 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 
 >12 I know both how to be abased, and I know how to abound: every where and in all things I am instructed 
