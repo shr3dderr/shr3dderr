@@ -8,13 +8,13 @@
 ## Languages
 - 🌱 I'm currently learning~
 
-| SKILLS |  | | | |
+| **SKILLS** |  | | | |
 | ------ | ------ | ------ |  ------ |  ------ |
-| Programming Languages | C | C++ | Python | Tailwind |
-| Frontend Development | CSS3 | HTML5 | SASS | Tailwind |
-| AI/ML | Pandas | - | - | - |
-| Software | Photoshop | XD | Figma | - |
-| Other | Linux | Git | - | - |
+| *Programming Languages* | C | C++ | Python | Tailwind |
+| *Frontend Development* | CSS3 | HTML5 | SASS | Tailwind |
+| *AI/ML* | Pandas | - | - | - |
+| *Software* | Photoshop | XD | Figma | - |
+| *Other* | Linux | Git | - | - |
 
 ---
 ## Faith
