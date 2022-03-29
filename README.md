@@ -13,7 +13,8 @@
 | *Programming Languages* | C | C++ | Python | - |
 | *Frontend Development* | CSS3 | HTML5 | SASS | Tailwind |
 | *AI/ML* | Pandas | - | - | - |
-| *Software* | Photoshop | XD | Figma | - |
+| *Software* | Figma | - | - | - |
+| *Adobe* | Photoshop | XD | Premiere Pro | - |
 | *Other* | Linux | Git | - | - |
 
 ---
