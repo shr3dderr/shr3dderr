@@ -10,7 +10,7 @@
 
 | **SKILLS** |  | | | |
 | ------ | ------ | ------ |  ------ |  ------ |
-| *Programming Languages* | C | C++ | Python | Tailwind |
+| *Programming Languages* | C | C++ | Python | - |
 | *Frontend Development* | CSS3 | HTML5 | SASS | Tailwind |
 | *AI/ML* | Pandas | - | - | - |
 | *Software* | Photoshop | XD | Figma | - |
