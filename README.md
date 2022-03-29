@@ -10,8 +10,10 @@
 - 🌱 I'm currently learning~
 
     ```sh
-    C   C++    HTML    CSS
-    Tailwind CSS    Python
+    C   C++    HTML3    CSS3
+    TailwindCSS        Python
+    SASS    Photoshop   XD
+    FIGMA   LINUX   GIT
     ```
 ---
 ## Faith
