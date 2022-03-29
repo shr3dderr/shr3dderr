@@ -5,7 +5,7 @@
 - 📫 Well, there's no reaching me ig
 - 📌 Based on India 🇮🇳
 ---
-- 🌱 I'm currently learning [Python]
+- 🌱 I'm currently learning~
 
     ```sh
     C   C++    HTML    CSS
